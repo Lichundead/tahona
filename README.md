@@ -1,1 +1,1 @@
-# Aplicacíón básica de escritorio para calcular pesos colombianos.
+# Aplicación básica de escritorio para calcular pesos colombianos.
